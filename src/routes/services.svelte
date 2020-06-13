@@ -20,7 +20,7 @@
       <img
         src="/images/118-macbook.png"
         alt="web studio"
-        style={{ objectFit: 'cover', width: 300, height: 300 }} />
+        style="object-fit: cover; width:300px; height:300px;" />
     </div>
     <p>
       "Sed ut perspiciatis unde omnis iste natus error sit voluptatem

@@ -25,7 +25,7 @@
           <img
             src="/images/day94-ui-ux.png"
             alt="web studio"
-            style={{ objectFit: 'cover', width: 500, height: 300 }} />
+            style="object-fit: cover; width:500px; height:300px;" />
         </div>
       </div>
     </div>
