@@ -48,7 +48,7 @@
               <img
                 src="/images/day94-ui-ux.png"
                 alt="web studio"
-                style={{ objectFit: 'cover', width: '100%', height: 150 }} />
+                style="object-fit: cover; width:100%; height:150px;" />
             </div>
             <div class="card-content">
               <h3 class="is-size-5">{p.title}</h3>
